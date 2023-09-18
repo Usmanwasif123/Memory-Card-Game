@@ -1,7 +1,7 @@
 const cards = document.querySelectorAll(".card");
 
 let matchedCard=0;
-let cardOne, cardTwo;-
+let cardOne, cardTwo;
 let disableDeck = false;
 
 function flipCard(e) {
